@@ -29,7 +29,7 @@ func PrintHex(dec int) int {
 
 // PrintRange will print the supplied range of values to the console
 // as a decimal, a binary value and a hexadecimal value
-func PrintRange(start int, end int) int {
+func PrintRange(start, end int) int {
 	print("\n")
 	for i := start; i <= end; i++ {
 		fmt.Printf("Decimal: %d - Binary: %b - Hexadecimal: %x \n", i, i, i)
