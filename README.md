@@ -11,3 +11,5 @@ This repo contains the code from Todd McLoud's [course on Udemy](https://www.ude
 - Effective Go: https://golang.org/doc/effective_go.html
 
 - ArdanLabs: https://github.com/ardanlabs/gotraining
+
+- Print Formatting: https://golang.org/pkg/fmt/#hdr-Printing
