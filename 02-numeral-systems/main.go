@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/brygrill/learning-golang/numeral-systems/numutil"
+	"github.com/brygrill/learning-golang/02-numeral-systems/numutil"
 )
 
 func main() {
