@@ -25,6 +25,10 @@ func main() {
 	fmt.Println(a)
 	// closure example
 	closureex.ClosureFunc()
+	// anon func w closure
+	closureex.AnonFunc()
+	// func that calls func
+	closureex.CallWrapper()
 }
 
 func foo() {
