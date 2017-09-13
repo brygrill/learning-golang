@@ -10,6 +10,8 @@ This repo contains the code from Todd McLoud's [course on Udemy](https://www.ude
 - Tour: https://tour.golang.org/list
 - Effective Go: https://golang.org/doc/effective_go.html
 
+- Collection of Resources: https://dave.cheney.net/resources-for-new-go-programmers
+- Go Forum: https://forum.golangbridge.org
 - ArdanLabs: https://github.com/ardanlabs/gotraining
 
 - Print Formatting: https://golang.org/pkg/fmt/#hdr-Printing
