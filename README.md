@@ -11,7 +11,7 @@ This repo contains the code from Todd McLoud's [course on Udemy](https://www.ude
 - Effective Go: https://golang.org/doc/effective_go.html
 
 - Collection of Resources: https://dave.cheney.net/resources-for-new-go-programmers
+- Go By Example: https://gobyexample.com/
 - Go Forum: https://forum.golangbridge.org
 - ArdanLabs: https://github.com/ardanlabs/gotraining
-
-- Print Formatting: https://golang.org/pkg/fmt/#hdr-Printing
+- Golang and Why It Matters: https://medium.com/@jamesotoole/golang-and-why-it-matters-1710b3af96f7
